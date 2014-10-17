@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cpo:home|Door43 (cpo)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cpo|d43-cpo repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cpo/archive/master.zip|d43-cpo.zip]]
+
+**Recent Changes**
+{{changes>ns = cpo}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cpo|Ethnologue data]]
+
